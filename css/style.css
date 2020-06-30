@@ -1,0 +1,17 @@
+iframe{
+    width: 500px;
+
+}
+header{
+    height: 70px;
+    background-color: blanchedalmond;
+
+}
+footer{
+    height: 70px;
+    background-color: chartreuse;
+}
+section{
+    height: 70px;
+    background-color: coral;
+}
